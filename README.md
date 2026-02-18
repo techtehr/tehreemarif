@@ -1,4 +1,4 @@
-![logo](https://github.com/techtehr/tehreemarif/blob/main/SQA banner.png?raw=true)
+![logo](https://github.com/techtehr/tehreemarif/blob/main/SQA-banner.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Tehreem Arif</h1>
 <h3 align="center">Manual QA Engineer | Software Quality Assurance</h3>
